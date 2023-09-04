@@ -54,6 +54,5 @@ python __main__.py
 5. Inicie o Testador de Estratégia no MetaTrader 5 para testar o modelo Python diretamente no ambiente MetaTrader.
 
 Certifique-se de consultar o arquivo [README.md](./README.md) para obter informações adicionais e detalhadas sobre como usar este projeto de forma eficaz.
-```
 
 Essas adições explicam os pré-requisitos necessários para usar o projeto, como instalar as bibliotecas de requisitos e como executar o projeto, incluindo a integração com o MetaTrader 5. Espero que isso ajude! Se precisar de mais informações ou ajustes, por favor, me informe.
